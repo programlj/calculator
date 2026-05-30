@@ -47,6 +47,16 @@ g++ calculator.cpp -o calculator.exe
 
 ---
 
+## 📦 下载
+
+Windows 用户可直接下载编译好的可执行文件：
+
+- **[calculator.zip](https://github.com/programlj/calculator/raw/main/calculator.zip)** (27 KB)
+  - 解压后运行 `calculator.exe` 即可使用命令行版计算器
+  - 无需安装任何依赖，开箱即用
+
+---
+
 ## ⌨️ 功能特性
 
 ### 标准模式
