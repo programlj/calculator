@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(g++ calculator.cpp -o calculator.exe)",
+      "Bash(./calculator.exe)"
+    ]
+  }
+}
